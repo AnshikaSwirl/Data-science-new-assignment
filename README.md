@@ -1,1 +1,1 @@
-.
+The goal of this project is to assess proficiency in API usage, browser automation, and basic problem-solving by creating two scripts to extract user data from LinkedIn. The scripts take a user's first and last name as input and output information on the first 10 search result users, saving relevant details in a CSV file.
